@@ -39,6 +39,10 @@
    font-weight: bold;
  }
 
-a:hover{
-  
+a:hover {
+  color: var(--text-color);
+}
+
+ul, li {
+  list-style: none;
 }
